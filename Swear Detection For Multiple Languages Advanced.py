@@ -229,4 +229,4 @@ if __name__ == "__main__":
 
     # Set up and run the Discord bot
     bot = setup_discord_bot()
-    bot.run('MTEzMDg5NjA5NTczNjc3MDcwMg.Gl08cQ.XV4JplDM2vUqSf9lj1TCI1CBXB_8mhUdmTKIV8')
+    bot.run('Your-Discord-Token-Here')
